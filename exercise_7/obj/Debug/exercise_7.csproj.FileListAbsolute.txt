@@ -1,0 +1,8 @@
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_7\exercise_7\bin\Debug\exercise_7.exe
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_7\exercise_7\bin\Debug\exercise_7.pdb
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_7\exercise_7\obj\Debug\exercise_7.csprojResolveAssemblyReference.cache
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_7\exercise_7\obj\Debug\exercise_7.Form1.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_7\exercise_7\obj\Debug\exercise_7.Properties.Resources.resources
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_7\exercise_7\obj\Debug\exercise_7.csproj.GenerateResource.Cache
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_7\exercise_7\obj\Debug\exercise_7.exe
+C:\Users\boysa\Documents\Visual Studio 2012\Projects\exercise_7\exercise_7\obj\Debug\exercise_7.pdb
